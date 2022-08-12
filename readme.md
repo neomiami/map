@@ -1,8 +1,8 @@
 <img src="attachments/foam-icon.png" width=100 align="left">
 
-# Foam
+# neomiami map
 
-**👋 Welcome to your new Foam Knowledge Base!**
+**🧭 welcome to neomiami!**
 
 ## Getting started
 
